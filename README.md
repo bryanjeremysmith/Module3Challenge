@@ -36,8 +36,7 @@ https://bryanjeremysmith.github.io/Module3Challenge/
 
 ## Usage
 
-TODO
-![screenshot of index.html](./assets/images/module2challenge.png)
+![screenshot of index.html](./assets/images/screenshot.png)
 
 ## Credits
 
