@@ -40,7 +40,7 @@ https://bryanjeremysmith.github.io/Module3Challenge/
 
 ## Credits
 
-N/A
+https://github.com/coding-boot-camp/friendly-parakeet
 
 ## License
 
